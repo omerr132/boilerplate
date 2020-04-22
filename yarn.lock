@@ -12,10 +12,10 @@
     lodash.camelcase "^4.3.0"
     nanoid "^2.1.6"
 
-"@ampify/dev-server@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@ampify/dev-server/-/dev-server-1.2.1.tgz#ea3f6982bfd84c737cf4b290acc9d6e733379830"
-  integrity sha512-JnWxC0anMMBUL6Kpsq7n9+LqKDm3XgNzKCKbTHXxANmoWGyqY776kt4fXH7FMT0qf44uCuf6/iglS+RMUh+kpA==
+"@ampify/dev-server@^1.2.3":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@ampify/dev-server/-/dev-server-1.2.3.tgz#b1a4f3a9461a604c2fa05bf530d5db7390dbaa2d"
+  integrity sha512-oEKryMWn+5fmnzOVEEarohzRPySjuCB8gxvT2aepcxpm6LHP8Es3Jh7cZhvuANafEs+tTDwWiM+K3a4JH3xjbA==
   dependencies:
     body-parser "^1.19.0"
     debug "^4.1.1"
